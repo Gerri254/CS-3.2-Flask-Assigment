@@ -6,6 +6,7 @@
 2. CS/MG/2591/09/22 - Mohamud Amir Abdullahi
 3. CS/MG/1204/09/22 - Gerald Omondi
 4. CS/MG/1885/09/22 - Otieno Ron Issac
+5. CS/MG/1638/09/22 - Jeremy Kagwi
 
 ## Intrduction
 
